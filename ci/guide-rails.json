@@ -1,6 +1,6 @@
 {
 	"metadata": {
-		"version": 1
+		"version": 2
 	},
 	"application": {
 		"name": "calculiTestUser-Test1",
@@ -56,7 +56,7 @@
 							{
 								"name": "print env",
 								"definition": "print env",
-								"command": "env | sort",
+								"command": "env | sort\n",
 								"properties": null
 							}
 						],
